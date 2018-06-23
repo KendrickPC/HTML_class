@@ -1,0 +1,11 @@
+.willy {
+	height: 100px;
+	width: 50px;
+}
+
+.background {
+	background-image: url("classroom.jpeg");
+	background-repeat: no-repeat;
+	height: 300px;
+	width: 100px;
+}
